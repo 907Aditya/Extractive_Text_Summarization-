@@ -1,0 +1,2 @@
+# Extractive_Text_Summarization-Extractive text summarization involves selecting key sentences, phrases, or sections from the original text and concatenating them to form a summary. Unlike the abstractive approach, it does not generate new sentences but instead extracts parts of the original text that are deemed most important. This method is simpler and often more straightforward but may result in less coherent summaries compared to the abstractive method.
+
